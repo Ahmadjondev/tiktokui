@@ -1,4 +1,4 @@
-# tik_tok_ui
+# Tik Tok UI
 
 A new Flutter project.
 
